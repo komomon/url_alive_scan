@@ -41,7 +41,13 @@ url_alive_scan.exe -i .\urls2.txt
 
 
 
+### TODO
 
+- [ ] 增加WAF对TLS的检测绕过
+
+- [ ] https 成功率检测
+
+- [ ] 增加对指定路径的检测
 
 
 
